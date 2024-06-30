@@ -5,6 +5,7 @@ import pickle
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import OneHotEncoder
+from Transformation.trans import *
 
 app = Flask(__name__)
 model = pickle.load(open("Tv_price_xgb.pkl", "rb"))
@@ -15,18 +16,10 @@ ohe_Screen = OneHotEncoder(handle_unknown='ignore')
 ohe_Display = OneHotEncoder(handle_unknown='ignore')
 ohe_Platform = OneHotEncoder(handle_unknown='ignore')
 
-# Load the encoder categories from .pkl files
-with open('Transformation/onehot_Brand_encoder.pkl', 'rb') as f:
-    ohe_Brand.categories_ = pickle.load(f)
-    
-with open('Transformation/onehot_Screen_encoder.pkl', 'rb') as f:
-    ohe_Screen.categories_ = pickle.load(f)
-    
-with open('Transformation/onehot_Display_encoder.pkl', 'rb') as f:
-    ohe_Display.categories_ = pickle.load(f)
-    
-with open('Transformation/onehot_Platform_encoder.pkl', 'rb') as f:
-    ohe_Platform.categories_ = pickle.load(f)
+ohe_Brand.categories_ = np.load('Transformation\onehot_Brand_encoder.npy', allow_pickle=True)
+ohe_Screen.categories_ = np.load('Transformation\onehot_Screen_encoder.npy', allow_pickle=True)
+ohe_Display.categories_ = np.load('Transformation\onehot_Display_encoder.npy', allow_pickle=True)
+ohe_Platform.categories_ = np.load('Transformation\onehot_Platform_encoder.npy', allow_pickle=True)
 
 @app.route("/")
 @cross_origin()
