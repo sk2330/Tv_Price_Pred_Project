@@ -9,16 +9,24 @@ from sklearn.preprocessing import OneHotEncoder
 app = Flask(__name__)
 model = pickle.load(open("Tv_price_xgb.pkl", "rb"))
 
-# Load the OneHotEncoders
+# Initialize the OneHotEncoders
 ohe_Brand = OneHotEncoder(handle_unknown='ignore')
 ohe_Screen = OneHotEncoder(handle_unknown='ignore')
 ohe_Display = OneHotEncoder(handle_unknown='ignore')
 ohe_Platform = OneHotEncoder(handle_unknown='ignore')
 
-ohe_Brand.categories_ = np.load('Transformation/onehot_Brand_encoder.npy', allow_pickle=True)
-ohe_Screen.categories_ = np.load('Transformation/onehot_Screen_encoder.npy', allow_pickle=True)
-ohe_Display.categories_ = np.load('Transformation/ohe_Display_encoder.npy', allow_pickle=True)
-ohe_Platform.categories_ = np.load('Transformation/ohe_Platform_encoder.npy', allow_pickle=True)
+# Load the encoder categories from .pkl files
+with open('Transformation/onehot_Brand_encoder.pkl', 'rb') as f:
+    ohe_Brand.categories_ = pickle.load(f)
+    
+with open('Transformation/onehot_Screen_encoder.pkl', 'rb') as f:
+    ohe_Screen.categories_ = pickle.load(f)
+    
+with open('Transformation/onehot_Display_encoder.pkl', 'rb') as f:
+    ohe_Display.categories_ = pickle.load(f)
+    
+with open('Transformation/onehot_Platform_encoder.pkl', 'rb') as f:
+    ohe_Platform.categories_ = pickle.load(f)
 
 @app.route("/")
 @cross_origin()
@@ -37,19 +45,19 @@ def predict():
         Platform = request.form["Platform"]
 
         # OneHot encode the categorical variables
-        encoded_Brand = ohe_Brand.transform([[Brand]])
-        encoded_Screen = ohe_Screen.transform([[Screen]])
-        encoded_Display = ohe_Display.transform([[Display]])
-        encoded_Platform = ohe_Platform.transform([[Platform]])
+        encoded_Brand = ohe_Brand.transform([[Brand]]).toarray()
+        encoded_Screen = ohe_Screen.transform([[Screen]]).toarray()
+        encoded_Display = ohe_Display.transform([[Display]]).toarray()
+        encoded_Platform = ohe_Platform.transform([[Platform]]).toarray()
 
         # Combine the encoded features with the numerical features
-        features = np.hstack([
+        features = np.hstack((
             encoded_Brand,
             encoded_Screen,
             encoded_Display,
             encoded_Platform,
             np.array([[Inches]])
-        ]).toarray()
+        ))
 
         # Make the prediction
         prediction = model.predict(features)
