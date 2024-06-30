@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TV PRICE PREDICTION</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+    <!-- css -->
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container">
+            <img src="https://www.flaticon.com/free-icon/smart-tv_1023521" alt="TV Icon" class="tv-icon">
+            <a class="navbar-brand" href="/">TV PRICE</a>
+        </div>
+    </nav>
+
+    <br><br><br>
+
+    <div class="container">
+        <form action="/predict" method="post">
+            <!-- Brand Card -->
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">BRAND</h5>
+                    <select name="Brand" id="Brand" required="required" class="form-control">
+                        <option value="Samsung">Samsung</option>
+                        <option value="LG">LG</option>
+                        <option value="Sony Bravia">Sony Bravia</option>
+                        <option value="Panasonic">Panasonic</option>
+                        <option value="TCL">TCL</option>
+                        <option value="Sony Bravia2">Sony Bravia2</option>
+                        <option value="Hisense">Hisense</option>
+                        <option value="MI">MI</option>
+                        <option value="Haier">Haier</option>
+                        <option value="Acer">Acer</option>
+                        <option value="TOSHIBA">TOSHIBA</option>
+                        <option value="OnePlus">OnePlus</option>
+                    </select>
+                </div>
+            </div>
+            <br>
+            <br>
+
+            <!-- Screen Card -->
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">SCREEN</h5>
+                    <select name="Screen" id="Screen" required="required" class="form-control">
+                        <option value="LED">LED</option>
+                        <option value="OLED">OLED</option>
+                        <option value="QLED">QLED</option>
+                        <option value="Laser">Laser</option>
+                        <option value="NanoCell">NanoCell</option>
+                        <option value="QNED">QNED</option>
+                    </select>
+                </div>
+            </div>
+            <br>
+            <br>
+
+            <!-- Display Card -->
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">DISPLAY</h5>
+                    <select name="Display" id="Display" required="required" class="form-control">
+                        <option value="4k UHD">4K UHD</option>
+                        <option value="4K">4K</option>
+                        <option value="8K UHD">8K UHD</option>
+                        <option value="4K Dolby Vision">4K Dolby Vision</option>
+                        <option value="Full HD">Full HD</option>
+                        <option value="HD">HD</option>
+                        <option value="UHD">UHD</option>
+                    </select>
+                </div>
+            </div>
+            <br>
+            <br>
+
+            <!-- Platform Card -->
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">STREAMING PLATFORM</h5>
+                    <select name="Platform" id="Platform" required="required" class="form-control">
+                        <option value="Smart TV">Smart TV</option>
+                        <option value="Android">Android</option>
+                        <option value="Google TV">Google TV</option>
+                        <option value="Fire TV">Fire TV</option>
+                    </select>
+                </div>
+            </div>
+            <br>
+            <br>
+
+             <!-- Inches Card -->
+             <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">INCHES</h5>
+                    <input type="number" name="Inches" id="Inches" placeholder="Enter TV Inches" required="required" class="form-control">
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+            
+            <br>
+            <br>
+            <h3>{{ prediction_text }}</h3>
+            <br>
+            <br>
+        </form>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

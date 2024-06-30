@@ -1,0 +1,60 @@
+body {
+    background: linear-gradient(to bottom, #7aa7d3, #5e8dbb);
+    margin: 0;
+    font-family: 'Helvetica Neue', sans-serif;
+ }
+
+
+ .container {
+     background-color: #d6d1d68c;
+     border-radius: 10px;
+     box-shadow: 0 0 10px rgba(240, 233, 233, 0.1);
+     padding: 20px;
+     margin-top: 50px;
+ }
+
+ .navbar {
+     background-color: #343a40 !important;
+ }
+
+ .tv-icon {
+     width: 50px;
+     height: 50px;
+     margin-right: 50px;
+ }
+ .card {
+     margin-bottom: 10px;
+ }
+ .card:hover {
+     transform: scale(1.03);
+     transition: transform 0.3s ease-in-out;
+ }
+
+
+ .btn-primary {
+     background: linear-gradient(to right, #007bff, #0056b3);
+     border-color: #007bff;
+     transition: background-color 0.3s ease-in-out;
+ }
+
+ .btn-primary:hover {
+     background: linear-gradient(to right, #0056b3, #007bff);
+     border-color: #0056b3;
+ }
+
+
+ h5.card-title {
+     color: #007bff;
+ }
+
+ select.form-control,
+ input.form-control {
+     margin-bottom: 10px;
+ }
+
+ select.form-control {
+     appearance: none;
+     background: url("https://www.flaticon.com/free-icon/television_550486") no-repeat right #579ae7;
+     background-size: 35px;
+     padding-right: 40px;
+ }
