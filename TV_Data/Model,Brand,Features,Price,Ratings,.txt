@@ -1,0 +1,46 @@
+Model,Brand,Features,Price,Ratings,Number of ratings
+
+Xiaomi 108 cm (43 inches) X Pro 4K Dolby Vision IQ Series Smart Google TV L43M8-5XIN (Black),Xiaomi,108 cm (43 inches) 4K Dolby Vision IQ Series Smart Google TV,32,999,4.2 out of 5 stars,2,906 ratings
+LG 108 cm (43 inches) 4K Ultra HD Smart LED TV 43UR7500PSC (Dark Iron Gray),LG,108 cm (43 inches) 4K Ultra HD Smart LED TV,32,989,4.2 out of 5 stars,2,366 ratings
+Sony Bravia 139 cm (55 inches) 4K Ultra HD Smart LED Google TV KD-55X74L (Black),Sony,139 cm (55 inches) 4K Ultra HD Smart LED Google TV,57,990,4.8 out of 5 stars,14,345 ratings
+Sony Bravia 108 cm (43 inches) 4K Ultra HD Smart LED Google TV KD-43X64L (Black),Sony,108 cm (43 inches) 4K Ultra HD Smart LED Google TV,40,990,4.8 out of 5 stars,14,345 ratings
+Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED Google TV KD-65X74L (Black),Sony,164 cm (65 inches) 4K Ultra HD Smart LED Google TV,77,990,4.8 out of 5 stars,14,345 ratings
+Sony 139 cm (55 inches) BRAVIA 2 4K Ultra HD Smart LED Google TV K-55S25B (Black),Sony,139 cm (55 inches) BRAVIA 2 4K Ultra HD Smart LED Google TV,66,990,4.9 out of 5 stars,66 ratings
+Sony 164 cm (65 inches) BRAVIA 2 4K Ultra HD Smart LED Google TV K-65S25B (Black),Sony,164 cm (65 inches) BRAVIA 2 4K Ultra HD Smart LED Google TV,85,990,4.9 out of 5 stars,66 ratings
+Sony Bravia 126 cm (50 inches) 4K Ultra HD Smart LED Google TV KD-50X70L (Black),Sony,126 cm (50 inches) 4K Ultra HD Smart LED Google TV,55,090,4.7 out of 5 stars,238 ratings
+Sony Bravia 108 cm (43 inches) 4K Ultra HD Smart LED Google TV KD-43X70L (Black),Sony,108 cm (43 inches) 4K Ultra HD Smart LED Google TV,41,390,4.7 out of 5 stars,238 ratings
+Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED Google TV KD-65X82L (Black),Sony,164 cm (65 inches) 4K Ultra HD Smart LED Google TV,1,04,490,4.8 out of 5 stars,245 ratings
+Redmi 108 cm (43 inches) 4K Ultra HD Smart LED Fire TV L43R8-FVIN (Black),Redmi,108 cm (43 inches) 4K Ultra HD Smart LED Fire TV,24,499,4.2 out of 5 stars,774 ratings
+Panasonic 108 cm (43 inches) 4K Ultra HD Smart LED Google TV TH-43MX660DX (Black),Panasonic,108 cm (43 inches) 4K Ultra HD Smart LED Google TV,29,990,4.3 out of 5 stars,426 ratings
+Sony Bravia 139 cm (55 inches) 4K Ultra HD Smart LED Google TV KD-55X82L (Black),Sony,139 cm (55 inches) 4K Ultra HD Smart LED Google TV,82,640,4.8 out of 5 stars,433 ratings
+Sony Bravia 189 cm (75 inches) 4K Ultra HD Smart LED Google TV KD-75X82L (Black),Sony,189 cm (75 inches) 4K Ultra HD Smart LED Google TV,1,47,240,4.8 out of 5 stars,122 ratings
+Sony Bravia 108 cm (43 inches) 4K Ultra HD Smart LED Google TV KD-43X80L (Black),Sony,108 cm (43 inches) 4K Ultra HD Smart LED Google TV,66,490,4.8 out of 5 stars,213 ratings
+Sony Bravia 164 cm (65 inches) XR Series 4K Ultra HD Smart OLED Google TV XR-65A80L (Black),Sony,164 cm (65 inches) XR Series 4K Ultra HD Smart OLED Google TV,2,51,740,4.7 out of 5 stars,45 ratings
+Sony Bravia 139 cm (55 inches) XR Series 4K Ultra HD Smart Full Array LED Google TV XR-55X90L (Black),Sony,139 cm (55 inches) XR Series 4K Ultra HD Smart Full Array LED Google TV,1,18,740,4.5 out of 5 stars,75 ratings
+Sony Bravia 126 cm (50 inches) 4K Ultra HD Smart LED Google TV KD-50X80L (Black),Sony,126 cm (50 inches) 4K Ultra HD Smart LED Google TV,75,990,4.8 out of 5 stars,213 ratings
+Sony 139 cm (55 inches) BRAVIA 2 4K Ultra HD Smart LED Google TV K-55S25 (Black),Sony,139 cm (55 inches) BRAVIA 2 4K Ultra HD Smart LED Google TV,69,240,5.0 out of 5 stars,1 ratings
+Sony 164 cm (65 inches) BRAVIA 2 4K Ultra HD Smart LED Google TV K-65S25 (Black),Sony,164 cm (65 inches) BRAVIA 2 4K Ultra HD Smart LED Google TV,91,190,5.0 out of 5 stars,1 ratings
+Panasonic 80 cm (32 inches) HD Ready Smart LED Google TV TH32MS660DX (Black),Panasonic,80 cm (32 inches) HD Ready Smart LED Google TV,14,990,4.2 out of 5 stars,3,513 ratings
+TOSHIBA 108 cm (43 inches) V Series Full HD Smart Android LED TV 43V35MP (Black),TOSHIBA,108 cm (43 inches) V Series Full HD Smart Android LED TV,20,999,4.0 out of 5 stars,3,344 ratings
+Panasonic 139 cm (55 inches) 4K Ultra HD Smart LED Google TV TH-55MX660DX (Black),Panasonic,139 cm (55 inches) 4K Ultra HD Smart LED Google TV,42,990,4.3 out of 5 stars,426 ratings
+LG 108 cm (43 inches) 4K Ultra HD Smart LED TV 43UQ7550PSF (Ceramic Black),LG,108 cm (43 inches) 4K Ultra HD Smart LED TV,34,989,4.2 out of 5 stars,2,366 ratings
+Sony Bravia 164 cm (65 inches) XR Series 4K Ultra HD Smart Full Array LED Google TV XR-65X90L (Black),Sony,164 cm (65 inches) XR Series 4K Ultra HD Smart Full Array LED Google TV,1,56,740,4.8 out of 5 stars,70 ratings
+Sony Bravia 139 cm (55 inches) XR Series 4K Ultra HD Smart OLED Google TV XR-55A80L (Black),Sony,139 cm (55 inches) XR Series 4K Ultra HD Smart OLED Google TV,1,80,490,4.7 out of 5 stars,45 ratings
+Samsung 80 cm (32 Inches) Wondertainment Series HD Ready LED Smart TV UA32T4340BKXXL (Glossy Black),Samsung,80 cm (32 Inches) Wondertainment Series HD Ready LED Smart TV,14,990,4.2 out of 5 stars,9,984 ratings
+Sony Bravia 210 cm (83 inches) XR Series 4K Ultra HD Smart OLED Google TV XR-83A80L (Black),Sony,210 cm (83 inches) XR Series 4K Ultra HD Smart OLED Google TV,6,17,490,4.7 out of 5 stars,45 ratings
+Sony Bravia 195 cm (77 inches) XR Series 4K Ultra HD Smart OLED Google TV XR-77A80L (Black),Sony,195 cm (77 inches) XR Series 4K Ultra HD Smart OLED Google TV,4,22,990,4.7 out of 5 stars,45 ratings
+Sony Bravia 126 cm (50 inches) 4K Ultra HD Smart LED Google TV KD-50X80K (Black),Sony,126 cm (50 inches) 4K Ultra HD Smart LED Google TV,64,990,4.8 out of 5 stars,1,351 ratings
+Acer 100 cm (40 inches) Advanced I Series Full HD Smart LED Google TV AR40GR2841FDFL (Black),Acer,100 cm (40 inches) Advanced I Series Full HD Smart LED Google TV,17,999,4.1 out of 5 stars,1,975 ratings
+Sony Bravia 164 cm (65 Inches) 4K Ultra HD Smart Android LED TV 65X7400H (Black) (2020 Model),Sony,164 cm (65 Inches) 4K Ultra HD Smart Android LED TV,76,800,4.6 out of 5 stars,2,136 ratings
+Hisense 108 cm (43 inches) 4K Ultra HD Smart QLED TV 43E7K (Black),Hisense,108 cm (43 inches) 4K Ultra HD Smart QLED TV,24,999,4.2 out of 5 stars,2,689 ratings
+TCL 139 cm (55 inches) 4K Ultra HD Smart QLED Google TV 55C645 (Black),TCL,139 cm (55 inches) 4K Ultra HD Smart QLED Google TV,41,990,4.1 out of 5 stars,1,982 ratings
+Acer 139 cm (55 inches) H PRO Series 4K Ultra HD Smart LED Google TV AR55GR2851UDPRO (Black),Acer,139 cm (55 inches) H PRO Series 4K Ultra HD Smart LED Google TV,36,999,4.2 out of 5 stars,469 ratings
+Samsung 108 cm (43 inches) Crystal 4K Neo Series Ultra HD Smart LED TV UA43AUE65AKXXL (Black),Samsung,108 cm (43 inches) Crystal 4K Neo Series Ultra HD Smart LED TV,31,990,4.1 out of 5 stars,7,495 ratings
+Redmi 80 cm (32 inches) F Series HD Ready Smart LED Fire TV L32R8-FVIN (Black),Redmi,80 cm (32 inches) F Series HD Ready Smart LED Fire TV,11,999,4.1 out of 5 stars,5,664 ratings
+Mi 108 cm (43 inches) X Series 4K Ultra HD Smart Google TV L43M8-A2IN (Black),Mi,108 cm (43 inches) X Series 4K Ultra HD Smart Google TV,26,999,4.2 out of 5 stars,22,864 ratings
+Samsung 163 cm (65 inches) Crystal iSmart 4K Ultra HD Smart LED TV UA65CUE60AKLXL (Black),Samsung,163 cm (65 inches) Crystal iSmart 4K Ultra HD Smart LED TV,64,990,4.1 out of 5 stars,7,495 ratings
+LG 80 cm (32 inches) HD Ready Smart LED TV 32LM563BPTC (Dark Iron Gray),LG,80 cm (32 inches) HD Ready Smart LED TV,14,490,4.3 out of 5 stars,15,870 ratings
+Samsung 138 cm (55 inches) Crystal 4K Neo Series Ultra HD Smart LED TV UA55AUE65AKXXL (Black),Samsung,138 cm (55 inches) Crystal 4K Neo Series Ultra HD Smart LED TV,45,990,4.1 out of 5 stars,7,495 ratings
+OnePlus 108 cm (43 inches) Y Series 4K Ultra HD Smart Android LED TV 43Y1S Pro (Black),OnePlus,108 cm (43 inches) Y Series 4K Ultra HD Smart Android LED TV,22,999,4.2 out of 5 stars,14,117 ratings
+Xiaomi 165 cm (65 inches) X Series 4K Ultra HD Smart Google TV L65M8-A2IN (Black),Xiaomi,165 cm (65 inches) X Series 4K Ultra HD Smart Google TV,59,999,4.2 out of 5 stars,22,864 ratings
+TOSHIBA 139 cm (55 inches) 4K Ultra HD Smart Super QLED TV 55M650MP (Black) | with Free Fire TV Stick After Installation,TOSHIBA,139 cm (55 inches) 4K Ultra HD Smart Super QLED TV,50,999,4.2 out of 5 stars,1,638 ratings

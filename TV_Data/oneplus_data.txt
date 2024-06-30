@@ -1,0 +1,23 @@
+Brand,Model,Platform,Inches,Display,Screen
+Samsung,UA43DUE70BKLXL,null,43,4K Vivid UHD,LED
+Samsung,UA43DU7000KLXL,null,43,4K UHD,LED
+OnePlus,43Y1S Pro,Android,43,4K UHD,LED
+OnePlus,32Y1,Android,32,HD,LED
+OnePlus,65 Q2 Pro,Google,65,4K UHD,QLED
+OnePlus,65U1S,Android,65,4K,LED
+OnePlus,43Y1,Android,43,Full HD,LED
+OnePlus,50Y1S Pro,Android,50,4K UHD,LED
+OnePlus,55U1S,Android,55,4K,LED
+OnePlus,43 Y1S,Android,43,Full HD,LED
+Panasonic,TH-43MX660DX,Google,43,4K UHD,LED
+MI,L43M8-5AIN,Google,43,Full HD,LED
+Samsung,UA32T4380AKXXL,null,32,HD,LED
+MI,L32R8-FVIN,Fire,32,HD,LED
+MI,L32MA-AIN,Google,32,HD,LED
+OnePlus,32 Y1S,Android,32,HD,LED
+MI,L50M8-A2IN,Google,50,4K Dolby Vision,LED
+Acer,AR40GR2841FDFL,Google,40,Full HD,LED
+MI,L55M8-A2IN,Google,55,4K Dolby Vision,LED
+Acer,AR32GT2841HDFL,Google,32,HD,LED
+MI,L43R8-FVIN,Fire,43,4K UHD,LED
+MI,L55M8-A2IN,Google,55,4K Dolby Vision,LED

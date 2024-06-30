@@ -1,0 +1,23 @@
+Brand,Model,Inches,Display,Screen,Price,Ratings,Number of ratings,Platform
+Mi,L43M8-A2IN,43 inches,4K UHD,LED,26999,4.2 out of 5 stars,"22,874 ratings",Google TV
+Mi,L50M8-5XIN,50 inches,4K,Dolby Vision,41999,4.2 out of 5 stars,"2,907 ratings",Google TV
+MI,L32MA-AIN,32 inches,HD Ready,LED,13499,4.1 out of 5 stars,"13,039 ratings",Google TV
+MI,L32R8-FVIN,32 inches,HD Ready,LED,11999,4.1 out of 5 stars,"5,675 ratings",Fire TV
+MI,L32MA-FVIN,32 inches,HD Ready,LED,12999,4.1 out of 5 stars,"5,675 ratings",Fire TV
+Mi,L43M8-5AIN,43 inches,Full HD,LED,23999,4.1 out of 5 stars,"13,039 ratings",Google TV
+Mi,L43M8-A2IN,43 inches,4K UHD,LED,26999,4.2 out of 5 stars,"22,874 ratings",Google TV
+Mi,L50M8-A2IN,50 inches,4K,LED,32999,4.2 out of 5 stars,"22,874 ratings",Google TV
+Mi,L55M8-A2IN,55 inches,4K,LED,37999,4.2 out of 5 stars,"22,874 ratings",Google TV
+MI,L43R8-FVIN,43 inches,4K UHD,LED,24499,4.2 out of 5 stars,"776 ratings",Fire TV
+MI,55C450ME,55 inches,4K UHD,Dolby Vision,38999,4.2 out of 5 stars,"1,645 ratings",null
+MI,55U7K,55 inches,4K UHD,Dolby Vision,59999,4.0 out of 5 stars,"552 ratings",null
+Mi,L43M8-5XIN,43 inches,4K,Dolby Vision,32999,4.2 out of 5 stars,"2,907 ratings",Google TV
+Mi,L75M6-ESG,75 inches,4K UHD,LED,109999,4.2 out of 5 stars,"603 ratings",null
+Mi,L55M8-5XIN,55 inches,4K,Dolby Vision,47999,4.2 out of 5 stars,"2,907 ratings",Google TV
+Mi,L50M8-5XIN,50 inches,4K,Dolby Vision,41999,4.2 out of 5 stars,"2,907 ratings",Google TV
+Mi,L65M8-A2IN,65 inches,4K UHD,LED,73999,4.2 out of 5 stars,"22,874 ratings",Google TV
+MI,43Y1S Pro,43 inches,4K UHD,LED,22999,4.1 out of 5 stars,"14,122 ratings",null
+MI,O55M7-Z2IN,55 inches,4K UHD,OLED,73999,4.2 out of 5 stars,"603 ratings",null
+MI,X55,55 inches,4K UHD,LED,39999,4.2 out of 5 stars,"3,942 ratings",null
+MI,55C645,55 inches,4K UHD,Dolby Vision,41990,4.1 out of 5 stars,"1,985 ratings",Google TV
+MI,43P635,43 inches,4K UHD,LED,24990,4.1 out of 5 stars,"1,854 ratings",Google TV

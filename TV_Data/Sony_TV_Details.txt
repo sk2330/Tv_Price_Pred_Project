@@ -1,0 +1,45 @@
+Brand,Inches,Display,Screen,Price,Ratings,Number of ratings,Platform
+Xiaomi,43,4K,LED,32999,4.2 out of 5 stars,2906 ratings,Google TV
+LG,43,4K,LED,32989,4.2 out of 5 stars,2366 ratings,Google TV
+Sony,55,4K,LED,57990,4.8 out of 5 stars,14345 ratings,Google TV
+Sony,43,4K,LED,40990,4.8 out of 5 stars,14345 ratings,Google TV
+Sony,65,4K,LED,77990,4.8 out of 5 stars,14345 ratings,Google TV
+Sony,55,4K,LED,66990,4.9 out of 5 stars,66 ratings,Google TV
+Sony,65,4K,LED,85990,4.9 out of 5 stars,66 ratings,Google TV
+Sony,50,4K,LED,55090,4.7 out of 5 stars,238 ratings,Google TV
+Sony,43,4K,LED,41390,4.7 out of 5 stars,238 ratings,Google TV
+Sony,65,4K,LED,104490,4.8 out of 5 stars,245 ratings,Google TV
+Redmi,43,4K,LED,24499,4.2 out of 5 stars,774 ratings,Fire TV
+Panasonic,43,4K,LED,29990,4.3 out of 5 stars,426 ratings,Google TV
+Sony,55,4K,LED,82640,4.8 out of 5 stars,433 ratings,Google TV
+Sony,75,4K,LED,147240,4.8 out of 5 stars,122 ratings,Google TV
+Sony,43,4K,LED,66490,4.8 out of 5 stars,213 ratings,Google TV
+Sony,65,4K,OLED,251740,4.7 out of 5 stars,45 ratings,Google TV
+Sony,55,4K,LED,118740,4.5 out of 5 stars,75 ratings,Google TV
+Sony,50,4K,LED,75990,4.8 out of 5 stars,213 ratings,Google TV
+Sony,55,4K,LED,69240,5.0 out of 5 stars,1 ratings,Google TV
+Sony,65,4K,LED,91190,5.0 out of 5 stars,1 ratings,Google TV
+Panasonic,32,HD Ready,LED,14990,4.2 out of 5 stars,3513 ratings,Google TV
+TOSHIBA,43,Full HD,LED,20999,4.0 out of 5 stars,3344 ratings,Google TV
+Panasonic,55,4K,LED,42990,4.3 out of 5 stars,426 ratings,Google TV
+LG,43,4K,LED,34989,4.2 out of 5 stars,2366 ratings,Google TV
+Sony,65,4K,LED,156740,4.8 out of 5 stars,70 ratings,Google TV
+Sony,55,4K,OLED,180490,4.7 out of 5 stars,45 ratings,Google TV
+Samsung,32,HD Ready,LED,14990,4.2 out of 5 stars,9984 ratings,Wondertainment
+Sony,83,4K,OLED,617490,4.7 out of 5 stars,45 ratings,Google TV
+Sony,77,4K,OLED,422990,4.7 out of 5 stars,45 ratings,Google TV
+Sony,50,4K,LED,64990,4.8 out of 5 stars,1351 ratings,Google TV
+Acer,40,Full HD,LED,17999,4.1 out of 5 stars,1975 ratings,Google TV
+Sony,65,4K,Android LED,76490,4.2 out of 5 stars,2136 ratings,Google TV
+Hisense,43,4K,QLED,42990,4.7 out of 5 stars,2689 ratings,Google TV
+TCL,55,4K,QLED,50490,4.2 out of 5 stars,1982 ratings,Google TV
+Acer,55,4K,LED,64990,4.1 out of 5 stars,469 ratings,Google TV
+Samsung,43,4K,LED,17999,4.1 out of 5 stars,7495 ratings,Crystal 4K Neo Series
+Redmi,32,HD Ready,LED,31990,4.2 out of 5 stars,5664 ratings,Fire TV
+Mi,43,4K,LED,11490,4.1 out of 5 stars,22864 ratings,Google TV
+Samsung,65,4K,LED,45990,4.1 out of 5 stars,7495 ratings,Crystal iSmart
+LG,32,HD Ready,LED,22999,4.2 out of 5 stars,11817 ratings,Google TV
+Samsung,55,4K,LED,59999,4.2 out of 5 stars,22864 ratings,Crystal 4K Neo Series
+OnePlus,43,4K,Android LED,50999,4.1 out of 5 stars,14117 ratings,Google TV
+Xiaomi,65,4K,LED,64990,4.1 out of 5 stars,22864 ratings,Google TV
+TOSHIBA,55,4K,Super QLED,14999,4.2 out of 5 stars,1638 ratings,Google TV

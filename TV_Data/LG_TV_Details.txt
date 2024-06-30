@@ -1,0 +1,45 @@
+Brand,inches,Display,Screen,Price,Ratings,Number of ratings,Platform
+MI,43,Full HD,LED,23999,4.1 out of 5 stars,13032,Google TV
+Samsung,43,4K UHD,LED,35990,5.0 out of 5 stars,1,null
+LG,32,HD,LED,14490,4.3 out of 5 stars,15870,null
+LG,32,HD,LED,16889,4.3 out of 5 stars,15870,null
+LG,43,4K UHD,LED,32989,4.2 out of 5 stars,2369,null
+LG,55,4K UHD,LED,46989,4.2 out of 5 stars,2369,null
+LG,43,4K UHD,LED,34989,4.2 out of 5 stars,2369,null
+LG,55,4K UHD,LED,48990,4.2 out of 5 stars,2369,null
+LG,65,4K UHD,LED,67990,4.2 out of 5 stars,2369,null
+LG,50,4K UHD,LED,43989,4.2 out of 5 stars,2369,null
+Panasonic,43,4K UHD,LED,29990,4.3 out of 5 stars,426,Google TV
+Samsung,65,4K UHD,QLED,141990,4.5 out of 5 stars,2,null
+LG,43,4K UHD,QNED,49990,0,0,null
+LG,43,4K UHD,LED,32990,4.3 out of 5 stars,2295,null
+LG,32,HD,LED,0,4.3 out of 5 stars,15870,null
+LG,55,4K UHD,LED,48990,4.2 out of 5 stars,2369,null
+Samsung,32,HD,LED,14888,4.2 out of 5 stars,9986,null
+LG,55,4K UHD,QNED,77990,5.0 out of 5 stars,1,null
+LG,55,4K UHD,NanoCell,87990,4.4 out of 5 stars,217,null
+LG,55,4K UHD,OLED,109990,4.5 out of 5 stars,359,null
+Panasonic,32,HD,LED,14990,4.2 out of 5 stars,3513,Google TV
+VU,50,4K UHD,LED,32999,4.5 out of 5 stars,3222,Google TV
+Panasonic,55,4K UHD,LED,42990,4.3 out of 5 stars,426,Google TV
+IBELL,43,Full HD,LED,18899,5.0 out of 5 stars,4,Android
+OnePlus,43,4K UHD,LED,22999,4.1 out of 5 stars,14118,Android
+Redmi,32,HD,LED,11999,4.1 out of 5 stars,5667,Fire TV
+LG,55,4K UHD,OLED,130499,4.4 out of 5 stars,76,null
+LG,43,4K UHD,NanoCell,39490,4.4 out of 5 stars,217,null
+Sony Bravia,43,4K UHD,LED,40990,4.8 out of 5 stars,14350,Google TV
+Samsung,32,HD,LED,15240,4.2 out of 5 stars,9986,null
+LG,55,4K UHD,OLED,119990,3.5 out of 5 stars,9,null
+LG,48,4K UHD,OLED,99499,4.4 out of 5 stars,76,null
+Hisense,43,4K UHD,QLED,24999,4.2 out of 5 stars,2693,null
+Mi,43,4K UHD,LED,26999,4.2 out of 5 stars,22864,Google TV
+LG,65,4K UHD,LED,75999,4.0 out of 5 stars,53,null
+LG,55,4K UHD,OLED,149990,4.5 out of 5 stars,359,null
+Samsung,43,4K UHD,LED,31990,4.1 out of 5 stars,7497,null
+LG,43,Full HD,LED,32490,4.3 out of 5 stars,349,null
+Hisense,120,4K UHD,Laser,499999,4.6 out of 5 stars,9,null
+Samsung,43,Full HD,LED,26990,4.2 out of 5 stars,9986,null
+LG,75,4K UHD,NanoCell,0,3.4 out of 5 stars,8,null
+LG,65,4K UHD,OLED,189990,3.5 out of 5 stars,2,null
+Samsung,32,HD,LED,15240,4.2 out of 5 stars,9986,null
+TOSHIBA,43,Full HD,LED,20999,4.0 out of 5 stars,3344,Android

@@ -1,0 +1,88 @@
+Brand,Inches,Display,Screen,Price,Ratings,Number of ratings,Platform
+Samsung,55,4K UHD,QLED,77990,2.9 out of 5 stars,6 ratings,null
+Samsung,55,4K UHD,QLED,82990,null,0,null
+Samsung,32,HD Ready,LED,15240,4.2 out of 5 stars,9993 ratings,null
+Samsung,32,HD Ready,LED,14888,4.2 out of 5 stars,9993 ratings,null
+Samsung,55,4K UHD,LED,46990,4.1 out of 5 stars,7504 ratings,null
+Samsung,43,4K UHD,LED,30990,4.1 out of 5 stars,7504 ratings,null
+Samsung,43,Full HD,LED,26990,4.2 out of 5 stars,9993 ratings,null
+Samsung,43,4K UHD,LED,35990,4.1 out of 5 stars,7504 ratings,null
+Samsung,55,4K UHD,LED,49990,4.1 out of 5 stars,7504 ratings,null
+Samsung,43,4K UHD,LED,31990,4.1 out of 5 stars,7504 ratings,null
+LG,43,4K UHD,LED,32989,4.2 out of 5 stars,2372 ratings,null
+Redmi,43,4K UHD,LED,24499,4.2 out of 5 stars,775 ratings,Fire TV
+Samsung,55,4K UHD,QLED,65990,4.1 out of 5 stars,473 ratings,null
+Samsung,65,4K UHD,LED,71490,4.1 out of 5 stars,7504 ratings,null
+Samsung,55,4K UHD,LED,45990,4.1 out of 5 stars,7504 ratings,null
+Samsung,65,4K UHD,LED,67990,4.1 out of 5 stars,7504 ratings,null
+Samsung,65,4K UHD,LED,64990,4.1 out of 5 stars,7504 ratings,null
+Samsung,55,4K UHD,LED,47990,4.1 out of 5 stars,7504 ratings,null
+Samsung,75,4K UHD,LED,149990,3.4 out of 5 stars,7 ratings,null
+Samsung,65,4K UHD,QLED,115990,4.1 out of 5 stars,473 ratings,null
+Redmi,32,HD Ready,LED,12999,4.1 out of 5 stars,5675 ratings,Fire TV
+Toshiba,43,Full HD,LED,20999,4.0 out of 5 stars,3345 ratings,Android
+Panasonic,43,4K UHD,LED,29990,4.3 out of 5 stars,426 ratings,Google TV
+Toshiba,65,4K UHD,QLED,57999,4.2 out of 5 stars,1645 ratings,Google TV
+Samsung,65,4K UHD,OLED,252990,4.5 out of 5 stars,13 ratings,null
+Samsung,85,8K UHD,QLED,1349990,3.2 out of 5 stars,21 ratings,null
+Samsung,65,8K UHD,QLED,327490,4.1 out of 5 stars,13 ratings,null
+Samsung,85,8K UHD,QLED,1099990,4.8 out of 5 stars,13 ratings,null
+Samsung,43,4K UHD,LED,35990,5.0 out of 5 stars,1 ratings,null
+Samsung,50,4K UHD,QLED,64990,2.9 out of 5 stars,6 ratings,null
+Samsung,65,4K UHD,QLED,141990,4.5 out of 5 stars,2 ratings,null
+Samsung,65,4K UHD,QLED,130499,4.1 out of 5 stars,473 ratings,null
+LG,55,4K UHD,LED,46989,4.2 out of 5 stars,2372 ratings,null
+TCL,43,4K UHD,LED,23990,4.1 out of 5 stars,1854 ratings,Google TV
+Samsung,55,4K UHD,OLED,139990,4.5 out of 5 stars,13 ratings,null
+Samsung,75,8K UHD,QLED,674990,4.1 out of 5 stars,13 ratings,null
+Samsung,75,4K UHD,QLED,274990,null,0,null
+Samsung,55,4K UHD,LED,53990,5.0 out of 5 stars,1 ratings,null
+Samsung,55,4K UHD,QLED,139990,4.3 out of 5 stars,6 ratings,null
+Samsung,32,HD,LED,22490,4.2 out of 5 stars,61 ratings,null
+Samsung,55,4K UHD,QLED,84990,4.2 out of 5 stars,56 ratings,null
+Samsung,43,4K UHD,QLED,56990,4.2 out of 5 stars,32999,null
+Xiaomi,43,4K UHD,LED,32999,4.2 out of 5 stars,34599,Google TV
+LG,43,4K UHD,LED,24999,4.2 out of 5 stars,45634,null
+Toshiba,43,4K UHD,LED,47890,4.2 out of 5 stars,456,null
+Samsung,65,4K UHD,LED,134990,4.2 out of 5 stars,352,null
+Samsung,50,4K UHD,QLED,58990,4.2 out of 5 stars,237,null
+Samsung,55,4K UHD,QLED,105000,4.2 out of 5 stars,32,null
+Samsung,55,4K UHD,LED,86990,null,0,null
+Samsung,50,4K UHD,LED,61999,4.2 out of 5 stars,456,null
+Samsung,138,4K UHD,LED,64999,4.2 out of 5 stars,567,null
+Samsung,108,4K UHD,LED,56999,4.2 out of 5 stars,456,null
+LG,108,4K UHD,LED,65999,4.2 out of 5 stars,456,null
+Toshiba,138,4K UHD,LED,21990,4.2 out of 5 stars,678,null
+Panasonic,138,4K UHD,LED,57990,4.2 out of 5 stars,23,null
+LG,65,4K UHD,LED,124900,4.2 out of 5 stars,12,null
+TCL,108,4K UHD,LED,67990,4.2 out of 5 stars,34,null
+Panasonic,108,4K UHD,LED,29990,4.2 out of 5 stars,123,Google TV
+LG,108,4K UHD,LED,29999,4.2 out of 5 stars,567,null
+Hisense,138,4K UHD,LED,45990,4.2 out of 5 stars,456,null
+Samsung,43,4K UHD,LED,45990,4.2 out of 5 stars,657,null
+Samsung,43,4K UHD,LED,30990,4.2 out of 5 stars,456,null
+Samsung,65,4K UHD,LED,78990,4.2 out of 5 stars,23,null
+Samsung,32,HD,LED,45990,4.2 out of 5 stars,567,null
+Samsung,108,4K UHD,LED,54990,4.2 out of 5 stars,567,null
+Samsung,138,4K UHD,LED,57990,4.2 out of 5 stars,123,null
+LG,138,4K UHD,LED,23490,4.2 out of 5 stars,456,null
+Samsung,32,HD Ready,LED,36990,4.2 out of 5 stars,456,null
+Samsung,65,4K UHD,LED,74990,4.2 out of 5 stars,123,null
+Samsung,138,4K UHD,QLED,67990,4.2 out of 5 stars,456,null
+LG,43,4K UHD,LED,29999,4.2 out of 5 stars,456,null
+Hisense,43,4K UHD,QLED,26990,4.2 out of 5 stars,567,null
+Samsung,43,4K UHD,LED,48990,4.2 out of 5 stars,567,null
+Samsung,65,4K UHD,LED,124990,4.2 out of 5 stars,567,null
+Samsung,138,4K UHD,OLED,139990,4.2 out of 5 stars,567,null
+MI,32,HD Ready,LED,13490,4.2 out of 5 stars,567,null
+Samsung,43,4K UHD,QLED,45990,4.2 out of 5 stars,567,null
+Samsung,55,4K UHD,QLED,72990,4.2 out of 5 stars,567,null
+Samsung,75,4K UHD,LED,189990,4.2 out of 5 stars,567,null
+Samsung,85,8K UHD,LED,1399900,4.2 out of 5 stars,567,null
+Samsung,43,4K UHD,LED,35990,4.2 out of 5 stars,567,null
+Samsung,138,4K UHD,LED,76990,4.2 out of 5 stars,567,null
+Sony,138,4K UHD,LED,56990,4.2 out of 5 stars,567,null
+LG,108,4K UHD,LED,34990,4.2 out of 5 stars,567,null
+Samsung,43,4K UHD,LED,45990,4.2 out of 5 stars,567,null
+LG,138,4K UHD,LED,67990,4.2 out of 5 stars,567,null
+Sony,108,4K UHD,LED,45990,4.2 out of 5 stars,567,null

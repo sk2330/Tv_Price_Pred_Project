@@ -1,0 +1,43 @@
+brand,model,platform,inches,Display,Screen,price,rating,ratings
+TCL,55V6B,Google TV,55,4K UHD,LED,37990,4.1 out of 5 stars,1856
+TCL,43C61B,Google TV,43,4K UHD,QLED,32990,4.1 out of 5 stars,1986
+TCL,40L4B,Android TV,40,Full HD,LED,18990,4.0 out of 5 stars,4447
+TCL,32S5500,Google TV,32,Full HD,LED,15990,4.0 out of 5 stars,4447
+TCL,50P635,Google TV,50,4K UHD,LED,37990,4.1 out of 5 stars,1856
+TCL,32S5500AF,Android TV,32,Full HD,LED,29990,4.1 out of 5 stars,1856
+TCL,55C61B,Google TV,55,4K UHD,QLED,14490,4.0 out of 5 stars,4447
+TCL,43P635,Google TV,43,4K UHD,LED,45990,4.1 out of 5 stars,1986
+TCL,32S5403AF,Android TV,32,Full HD,LED,24990,4.1 out of 5 stars,1856
+Hisense,55E7K,null,55,4K UHD,QLED,13990,4.0 out of 5 stars,4447
+TCL,50V6B,Google TV,50,4K UHD,LED,18990,4.0 out of 5 stars,4447
+TCL,75P635,Google TV,75,4K UHD,LED,33999,4.2 out of 5 stars,2699
+TCL,32S5500,Google TV,32,Full HD,LED,32990,4.1 out of 5 stars,1856
+TCL,50P635,Google TV,50,4K UHD,LED,37990,4.1 out of 5 stars,1986
+TCL,65V6B,Google TV,65,4K UHD,LED,54990,4.1 out of 5 stars,1856
+TCL,32S5400,Google TV,32,Full HD,LED,15990,4.0 out of 5 stars,4447
+TCL,65P71B Pro,Google TV,65,4K UHD,QLED,64990,4.1 out of 5 stars,158
+TCL,98P745,Google TV,98,4K UHD,LED,309990,4.1 out of 5 stars,1986
+TOSHIBA,43V35MP,Android TV,43,Full HD,LED,20999,4.0 out of 5 stars,1856
+Panasonic,TH-43MX660DX,Google TV,43,4K UHD,LED,29990,4.1 out of 5 stars,3346
+TCL,43P635,Google TV,43,4K UHD,LED,24990,4.0 out of 5 stars,427
+TCL,55P71B Pro,Google TV,55,4K UHD,QLED,44990,4.1 out of 5 stars,1856
+TCL,55C655,Google TV,55,4K UHD,QLED,46490,4.1 out of 5 stars,158
+TCL,98C755,Google TV,98,4K UHD,QD-Mini LED,499990,4.1 out of 5 stars,1986
+TCL,55C645,Google TV,55,4K UHD,QLED,41990,4.0 out of 5 stars,158
+TCL,65P635,Google TV,65,4K UHD,LED,49990,4.1 out of 5 stars,1986
+TCL,55P71B Pro,Google TV,55,4K UHD,QLED,44990,4.1 out of 5 stars,1856
+TCL,65C61B,Google TV,65,4K UHD,QLED,64990,4.1 out of 5 stars,158
+TCL,43C655,Google TV,43,4K UHD,QLED,35999,4.1 out of 5 stars,1986
+TCL,55C835,Google TV,55,4K UHD,Mini LED,119990,4.1 out of 5 stars,1986
+LG,65UR7500PSC,null,65,4K UHD,LED,38990,3.3 out of 5 stars,20
+Hisense,55A7H,Google TV,55,4K UHD,LED,259990,4.2 out of 5 stars,2373
+TCL,65C755,Google TV,65,4K UHD,QD-Mini LED,204790,4.1 out of 5 stars,2047
+TCL,55P635 Pro,Google TV,55,4K UHD,LED,58990,4.0 out of 5 stars,158
+TCL,85C755,Google TV,85,4K UHD,QD-Mini LED,179990,4.1 out of 5 stars,1856
+TCL,55C755,Google TV,55,4K UHD,QD-Mini LED,71990,4.0 out of 5 stars,158
+TCL,43C645,Google TV,43,4K UHD,QLED,42990,4.0 out of 5 stars,158
+TCL,65P635 Pro,Google TV,65,4K UHD,LED,119990,4.1 out of 5 stars,1986
+TCL,85P745,Google TV,85,4K UHD,LED,259990,4.0 out of 5 stars,1986
+TCL,65C645,Google TV,65,4K UHD,QLED,84990,4.1 out of 5 stars,1986
+Panasonic,TH-55MX660DX,Google TV,55,4K UHD,LED,32990,4.0 out of 5 stars,427
+Hisense,55E7K PRO,null,55,4K UHD,QLED,55489,4.3 out of 5 stars,2699
