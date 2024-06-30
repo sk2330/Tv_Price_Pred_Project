@@ -5,7 +5,7 @@ import pickle
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import OneHotEncoder
-from Transformation.trans import *
+
 
 app = Flask(__name__)
 model = pickle.load(open("Tv_price_xgb.pkl", "rb"))
@@ -44,16 +44,23 @@ def predict():
         encoded_Platform = ohe_Platform.transform([[Platform]]).toarray()
 
         # Combine the encoded features with the numerical features
-        features = np.hstack((
-            encoded_Brand,
-            encoded_Screen,
-            encoded_Display,
-            encoded_Platform,
-            np.array([[Inches]])
-        ))
+        # features = np.hstack((
+        #     encoded_Brand,
+        #     encoded_Screen,
+        #     encoded_Display,
+        #     encoded_Platform,
+        #     np.array([[Inches]])
+        # ))
 
         # Make the prediction
-        prediction = model.predict(features)
+        prediction = model.predict([[
+            encoded_Brand[0][0], encoded_Brand[0][1], encoded_Brand[0][2], encoded_Brand[0][3], encoded_Brand[0][4],
+            encoded_Screen[0][0], encoded_Screen[0][1], encoded_Screen[0][2], encoded_Screen[0][3], encoded_Screen[0][4],
+            encoded_Display[0][0], encoded_Display[0][1], encoded_Display[0][2], encoded_Display[0][3], encoded_Display[0][4],
+            encoded_Platform[0][0], encoded_Platform[0][1], encoded_Platform[0][2], encoded_Platform[0][3], encoded_Platform[0][4],
+            Inches
+        ]])
+        
         output = round(prediction[0], 2)
 
         return render_template('index.html', prediction_text="The estimated TV price is Rs. {}".format(output))
