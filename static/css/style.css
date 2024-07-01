@@ -1,14 +1,14 @@
 body {
-    background: linear-gradient(to bottom, #7aa7d3, #5e8dbb);
+    background: linear-gradient(to bottom, #8c7bea, #6e1adb);
     margin: 0;
     font-family: 'Helvetica Neue', sans-serif;
  }
 
 
  .container {
-     background-color: #d6d1d68c;
+     background-color: #4f51e3e6;
      border-radius: 10px;
-     box-shadow: 0 0 10px rgba(240, 233, 233, 0.1);
+     box-shadow: 0 0 10px rgba(22, 189, 204, 0.1);
      padding: 20px;
      margin-top: 50px;
  }
@@ -32,8 +32,8 @@ body {
 
 
  .btn-primary {
-     background: linear-gradient(to right, #007bff, #0056b3);
-     border-color: #007bff;
+     background: linear-gradient(to right, #22bd1d, #0a90c9);
+     border-color: #df3a11;
      transition: background-color 0.3s ease-in-out;
  }
 
@@ -44,7 +44,7 @@ body {
 
 
  h5.card-title {
-     color: #007bff;
+     color: #e57010;
  }
 
  select.form-control,
